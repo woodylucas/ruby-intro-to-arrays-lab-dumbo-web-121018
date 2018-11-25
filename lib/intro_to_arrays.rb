@@ -1,4 +1,4 @@
-def instantiating_new_array(array)
-  @my_new_array = array 
+def instantiating_new_array(Array)
+  @my_new_array = Array 
 end
 end 
